@@ -1,0 +1,39 @@
+
+.main_page{
+    background-color: #C2CAD0;
+    padding: 1rem;
+}
+
+.card_element{
+    background-color: #E7717D;
+    padding: 1rem;
+}
+
+.card_header{
+    background-color: #55BCC9;
+}
+
+.card_body{
+    background-color: #CAFAFE;
+}
+
+.card_item{
+    background-color: #C5CBE3;
+    padding: 1rem;
+    margin: 0.5rem;
+}
+
+.input_block{
+    background-color: #E3E2DF;
+    padding: 1rem;
+    margin: 0.5rem;
+}
+
+ .add_btn{
+    margin-left: 1rem;
+} 
+
+.text_area{
+    margin-left: 1rem;
+    margin-right: 1rem;
+} 
